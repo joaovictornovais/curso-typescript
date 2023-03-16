@@ -1,4 +1,4 @@
-type MapStringsCallback = (item: string) => string;
+type MapStringsCallback = (item: string) => string; /* eslint-disable-line */
 
 export function mapStrings(
   array: string[],
