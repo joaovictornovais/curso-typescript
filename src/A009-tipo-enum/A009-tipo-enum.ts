@@ -1,3 +1,4 @@
+/* eslint-disable */
 enum Cores {
   VERMELHO = 10, // 0
   AZUL = 100, // 1
