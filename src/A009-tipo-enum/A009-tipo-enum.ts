@@ -8,7 +8,7 @@ enum Cores {
   ROSA,
 }
 
-function escolhaCor(cor: Cores): void {
+export function escolhaCor(cor: Cores): void {
   console.log(Cores[cor]);
 }
 
